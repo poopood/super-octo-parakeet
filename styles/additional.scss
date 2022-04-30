@@ -1,0 +1,25 @@
+.topper{
+    position: relative;
+}
+
+.name, .price, .sku, .available{
+    &-inactive, &-asc, &-desc{
+        display: inline-block;
+        transform: translateY(25%);
+       
+    }
+  
+    &-inactive{
+        font-size: 2rem;
+       
+      
+    }
+
+
+    &-asc, &-desc{
+        color: red;
+        font-size: 2rem;
+       
+       
+    }
+}

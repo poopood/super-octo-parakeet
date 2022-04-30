@@ -1,0 +1,26 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Ziggy"
+      },
+      "creation_time": "2022-04-29T03:45:52.780Z",
+      "id": "4",
+      "prio": 1,
+      "references": [],
+      "title": "eslint"
+    },
+    {
+      "assignedTo": {
+        "name": "Ziggy"
+      },
+      "creation_time": "2022-04-29T03:45:14.973Z",
+      "id": "2",
+      "references": [],
+      "title": "memoize"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}
